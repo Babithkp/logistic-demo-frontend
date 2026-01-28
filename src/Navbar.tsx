@@ -1,4 +1,3 @@
-import logo from "./assets/logisticsLogo.svg";
 import { HiHome } from "react-icons/hi";
 import { PiPackage } from "react-icons/pi";
 import { TbInvoice } from "react-icons/tb";
